@@ -177,7 +177,7 @@ a{
 }
 .directors__item {
   background: #012F34;
-  width: 350px;
+  width: 33%;
   height: 253px;
   display: flex;
   flex-direction: column;
